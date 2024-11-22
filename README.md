@@ -57,3 +57,24 @@ Weather status during data collection, such as Clear, Rainy, or Foggy.
 
 16. Roadwork and Construction Activity:
 Indicates if there was roadwork or construction (Yes/No) that might have affected traffic flow.
+
+
+## Continuous Columns:
+Traffic Volume
+Average Speed
+Travel Time Index
+Congestion Level
+Road Capacity Utilization
+Environmental Impact
+Public Transport Usage
+Traffic Signal Compliance
+Parking Usage
+Pedestrian and Cyclist Count
+
+
+## Categorical Columns:
+Date
+Area Name
+Road/Intersection Name
+Weather Conditions
+Roadwork and Construction Activity
