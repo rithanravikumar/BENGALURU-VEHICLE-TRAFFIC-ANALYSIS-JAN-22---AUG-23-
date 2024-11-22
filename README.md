@@ -11,7 +11,7 @@ The dataset has 16 columns and 8,936 entries.
 Detailed Column Descriptions:
 
 1. Date:
-The specific date of data collection, formatted as YYYY-MM-DD.
+The specific date of data collection, formatted as DD-MM-YYYY.
 
 2. Area Name:
 Name of the locality where traffic data was recorded (e.g., Indiranagar, Whitefield).
