@@ -1,4 +1,6 @@
 # BENGALURU-VEHICLE-TRAFFIC-ANALYSIS-JAN-22---AUG-23-
+
+
 ### Source: https://www.kaggle.com/datasets/preethamgouda/banglore-city-traffic-dataset
 
 
@@ -8,7 +10,7 @@ It includes various metrics related to traffic flow, road conditions, environmen
 The dataset has 16 columns and 8,936 entries.
 
 
-Detailed Column Descriptions:
+## Detailed Column Descriptions:
 
 1. Date:
 The specific date of data collection, formatted as DD-MM-YYYY.
