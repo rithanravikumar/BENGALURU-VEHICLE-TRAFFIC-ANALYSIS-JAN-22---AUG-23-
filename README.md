@@ -76,6 +76,7 @@ Indicates if there was roadwork or construction (Yes/No) that might have affecte
 9. Traffic Signal Compliance
 10. Parking Usage
 11. Pedestrian and Cyclist Count
+12. Incident Reports
 
 
 ## Categorical Columns:
