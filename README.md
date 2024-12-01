@@ -64,21 +64,23 @@ Indicates if there was roadwork or construction (Yes/No) that might have affecte
 
 
 ## Continuous Columns:
-Traffic Volume,
-Average Speed,
-Travel Time Index,
-Congestion Level,
-Road Capacity Utilization,
-Environmental Impact,
-Public Transport Usage,
-Traffic Signal Compliance,
-Parking Usage,
-Pedestrian and Cyclist Count.
+
+1. Date
+2. Traffic Volume
+3. Average Speed
+4. Travel Time Index
+5. Congestion Level
+6. Road Capacity Utilization
+7. Environmental Impact
+8. Public Transport Usage
+9. Traffic Signal Compliance
+10. Parking Usage
+11. Pedestrian and Cyclist Count
 
 
 ## Categorical Columns:
-Date,
-Area Name,
-Road/Intersection Name,
-Weather Conditions,
-Roadwork and Construction Activity.
+
+1. Area Name
+2. Road/Intersection Name
+3. Weather Conditions
+4. Roadwork and Construction Activity
